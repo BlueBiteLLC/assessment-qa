@@ -57,12 +57,10 @@ The winner of the raffle will be managed independently and will be contacted via
 
 ### Part 3
 * Automate Test cases for the [Experience](https://blue-bite-dev-3.bluebite.io/04425f7c-4fdd-47f6-85b3-b800d12bb9ca)
-    * Utilize Cypress (preferred), or similar framework
+    * Utilize Cypress.
     * Provide instructions on how to run automated tests
     * Provide test results
 
 ## Submission
 
 Upon completion of the assessment, please email your point of contact at Blue Bite a link to the repository.
-
-
