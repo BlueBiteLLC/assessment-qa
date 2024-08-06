@@ -1,5 +1,8 @@
 # Blue Bite Assessment
 
+Out of respect for your time, please timebox yourself to 4 hours for this evaluation (it should not take this long). Read the directions in their entirety at first and prioritize what, in your opinion, are the most important skills to showcase.  If you run out time and are not able to complete everything, add some notes to the readme as to what next steps you would take and what your thought process would be. 
+
+
 ## Introduction
 
 Imagine you are provided a new feature that needs to be tested. You are provided with a user story with design mockups and the implementation created by the developer. The goal is to validate that the implementation meets all requirements.
@@ -47,7 +50,6 @@ The winner of the raffle will be managed independently and will be contacted via
 ### Part 1
 
 * Provide a defect report for the [Experience](https://blue-bite-dev-3.bluebite.io/04425f7c-4fdd-47f6-85b3-b800d12bb9ca)
-
 
 ### Part 2
 
