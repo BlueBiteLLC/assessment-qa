@@ -2,6 +2,8 @@
 
 Out of respect for your time, please timebox yourself to 4 hours for this evaluation (it should not take this long). Read the directions in their entirety at first and prioritize what, in your opinion, are the most important skills to showcase.  If you run out time and are not able to complete everything, add some notes to the readme as to what next steps you would take and what your thought process would be. 
 
+Important note: Do not create a PR against this project. Clone it and create your own new project to submit.
+
 
 ## Introduction
 
